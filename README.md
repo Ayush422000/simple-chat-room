@@ -94,24 +94,9 @@ Frontend
 ✔️ Result: A smooth, real-time group chat experience.
 
 ---
-![Mobile UI](src/assets/images/image2.png)
-![Desktop UI](src/assets/images/image1.png)
+![Desktop UI](src/assets/chat-room.png)
 
 
-## ⚙️ Setup & Installation  
 
-### Clone the Repository  
-```bash
-git clone https://github.com/your-username/ai-email-reply-generator.git
-cd ai-email-reply-generator
-
-cd backend
-mvn spring-boot:run
-
-cd frontend
-npm install
-npm run dev
-
-Runs on: http://localhost:5173
 
 
